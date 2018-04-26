@@ -21,7 +21,7 @@ import org.json.JSONObject;
 import java.util.List;
 
 /**
- * Created by Mj on 22-04-2018.
+ * Created by Akshay on 22-04-2018.
  */
 
 public class SlidePresenter implements SlideContract.Presenter,AsyncResponse {

@@ -1,7 +1,7 @@
 package com.assign.demo.multibhashi_assignment.Activities.Slide;
 
 /**
- * Created by Mj on 22-04-2018.
+ * Created by Akshay on 22-04-2018.
  */
 
 public class Slide {
